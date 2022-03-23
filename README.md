@@ -61,6 +61,10 @@
       </td>
       <td width="25%" align="center">
         TailwindCSS <br/>
-        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/></a>
+        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/>
+      </td> 
+     
+          </tr>
+    </a>
   </tbody>
 </table>
