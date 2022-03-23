@@ -1,5 +1,5 @@
 ### Boujour, everyone 👋🏼
-i'm Matis     <a href="https://www.linkedin.com/in/matis-caffiaux-44b16a169/" >![<Linkedin>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+###i'm Matis
 
 
   
@@ -61,3 +61,5 @@ i'm Matis     <a href="https://www.linkedin.com/in/matis-caffiaux-44b16a169/" >!
         <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/>     </a> 
   </tbody>
 </table>
+
+ <a href="https://www.linkedin.com/in/matis-caffiaux-44b16a169/" >![<Linkedin>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
