@@ -1,4 +1,4 @@
-### Boujour 🇫🇷, everyone 👋🏼
+### Bonjour 🇫🇷, everyone 👋🏼
 ### i'm Matis 
 
   
