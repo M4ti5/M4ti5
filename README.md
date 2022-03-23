@@ -45,19 +45,16 @@
         <a href=""><img src="https://img.icons8.com/office/16/000000/react.png" width="auto" height="40"/></a>
       </td>
      <tr>
-       <td width="25%" align="center">
+       <td width="33%" align="center">
         JS <br/>
         <a href=""><img src="https://img.icons8.com/color/48/000000/javascript.png" width="auto" height="40"/></a>
       </td>
-       <td width="25%" align="center">
-        HTML  <br/>
+       <td width="33%" align="center">
+        HTML & SaSS  <br/>
         <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="auto" height="40"/></a>
-      </td> 
-      <td width="25%" align="center">
-        SaSS <br/>
         <a href=""><img src="https://img.icons8.com/ios/50/000000/sass.png" width="auto" height="40"/></a>
-      </td>
-      <td width="25%" align="center">
+      </td> 
+      <td width="33%" align="center">
         TailwindCSS <br/>
         <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/>     </a> 
   </tbody>
