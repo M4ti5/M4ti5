@@ -1,6 +1,4 @@
 ### Bonjour 🇫🇷, everyone 👋🏼
-### i'm Matis 
-
   
 <h2 align="center">Programming Skills</h2>
 
@@ -33,31 +31,39 @@
 <table align="center">
   <tbody>
     <tr>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         Symfony <br/>
         <a href=""><img src="https://img.icons8.com/color/48/000000/symfony.png" width="auto" height="40"/></a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         Django <br/>
         <a href=""><img src="https://img.icons8.com/ios/50/000000/django.png" width="auto" height="40"/></a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
          React.js<br/>
         <a href=""><img src="https://img.icons8.com/office/40/000000/react.png" width="auto" height="40"/></a>
       </td>
+       </td>
+      <td width="25%" align="center">
+        TailwindCSS <br/>
+        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/>     </a> 
      <tr>
-       <td width="33%" align="center">
+       <td width="25%" align="center">
+         Php<br/>
+        <a href=""><img src="https://img.icons8.com/office/40/000000/react.png" width="auto" height="40"/></a>
+      </td>
+       <td width="25%" align="center">
         JS <br/>
         <a href=""><img src="https://img.icons8.com/color/48/000000/javascript.png" width="auto" height="40"/></a>
       </td>
-       <td width="33%" align="center">
-        HTML & SaSS  <br/>
+       <td width="25%" align="center">
+        HTML<br/>
         <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="auto" height="40"/></a>
+      </td>
+       <td width="25%" align="center">
+        SaSS  <br/>
         <a href=""><img src="https://img.icons8.com/ios/50/000000/sass.png" width="auto" height="40"/></a>
-      </td> 
-      <td width="33%" align="center">
-        TailwindCSS <br/>
-        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/>     </a> 
+      </td>
   </tbody>
 </table>
 
