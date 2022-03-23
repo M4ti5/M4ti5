@@ -1,6 +1,5 @@
-### Boujour, everyone 👋🏼
-###i'm Matis
-
+### Boujour 🇫🇷, everyone 👋🏼
+### i'm Matis 
 
   
 <h2 align="center">Programming Skills</h2>
