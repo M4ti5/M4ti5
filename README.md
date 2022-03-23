@@ -1,6 +1,8 @@
-### Boujour, everyone
+### Boujour, everyone 👋🏼
+i'm Matis.
 
-
+<a href="https://www.linkedin.com/in/matis-caffiaux-44b16a169/" >![<Linkedin>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  
 <h2 align="center">Programming Skills</h2>
 
 <table align="center">
