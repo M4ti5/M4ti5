@@ -42,7 +42,7 @@
       </td>
       <td width="33%" align="center">
          React.js<br/>
-        <a href=""><img src="https://img.icons8.com/office/16/000000/react.png" width="auto" height="40"/></a>
+        <a href=""><img src="https://img.icons8.com/office/40/000000/react.png" width="auto" height="40"/></a>
       </td>
      <tr>
        <td width="33%" align="center">
