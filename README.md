@@ -1,5 +1,9 @@
 ### Bonjour 🇫🇷, everyone 👋🏼
-  
+
+my coding skills are very diverse, from creating machine learning models to developing web-applications.
+Currently, I'm specialized in machine learning & deep learning.
+
+
 <h2 align="center">Programming Skills</h2>
 
 <table align="center">
